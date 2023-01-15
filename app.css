@@ -47,8 +47,9 @@ background: rgb(104, 62, 104);
 transition: background 500ms;
 }
 footer p{
-background:black;
-color:white;
+background:#000;
+color:#fff;
+    text-align:center;
 
 }
 @media (max-width:1200px) {
